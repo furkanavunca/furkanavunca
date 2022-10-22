@@ -1,5 +1,5 @@
 # 💫 About Me
-F1 Yazılım - Intern<br>I am 22 years old and I have been involved in software development for 7 years. I finished database programming in high school and Computer Technology and Information Systems at university.
+F1 Yazılım - Full Stack Developer <br> I am 22 years old and I have been involved in software development for 7 years. I finished database programming in high school and Computer Technology and Information Systems at university.
 
 
 ## 🌐 Socials:
